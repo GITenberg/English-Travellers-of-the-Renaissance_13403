@@ -1,0 +1,31 @@
+_repo: English-Travellers-of-the-Renaissance_13403
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Howard, Clare
+    alias: Howard, Clare Macllelen
+    birthdate: 1881
+    deathdate: 1967
+    gutenberg_agent_id: '5039'
+    url: http://www.gutenberg.org/2009/agents/5039
+description: ''
+gutenberg_issued: '2004-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13403'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Travel'
+- !lcc 'DA'
+- !lcsh 'Europe -- Description and travel'
+- !lcsh 'British -- Europe -- History -- 16th century'
+- !lcsh 'Renaissance -- England'
+- !lcsh 'Travelers -- Europe -- History -- 16th century'
+title: English Travellers of the Renaissance
+url: http://www.gutenberg.org/ebooks/13403
